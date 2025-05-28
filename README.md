@@ -15,8 +15,10 @@
 
 - 📫 How to reach me **patrarajarshi20@gmail.com**
 
-<h3 align="left">Connect with me: [LinkedIn](https://www.linkedin.com/in/rajarshi-patra/)</h3>
+<h3 align="left">Connect with me </h3>
 <p align="left">
+  
+  [LinkedIn](https://www.linkedin.com/in/rajarshi-patra/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,9 +32,24 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/184143/processor.svg" alt="assembly" width="40" height="40"/> 
+</a>  -->
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> 
 </a> 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+</a> 
+<!-- <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+</a>  -->
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cy83rtr0n&show_icons=true&locale=en&layout=compact" alt="cy83rtr0n" /></p>
