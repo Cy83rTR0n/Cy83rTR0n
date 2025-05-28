@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajarshi Patra</h1>
-<h3 align="center">Student Malware Researcher, passionate about binaries</h3>
+<h3 align="center">Windows Malware Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cy83rtr0n&label=Profile%20views&color=0e75b6&style=flat" alt="cy83rtr0n" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Windows Internals**
 
-- 🌱 I’m currently learning **Binary Exploitation both in linux and windows**
+- 📝 I regularly write articles on [medium](https://medium.com/@patrarajarshi20)
 
-- 📝 I regularly write articles on [https://cy83rtr0n.github.io/website](https://cy83rtr0n.github.io/website)
+- 🔬 My Research Website : [Link](https://cy83rtr0n.notion.site/Cy8rtr0n-s-Blog-1cdbfdcc97cf80149126e9ec2633a081)
 
-- 💬 Ask me about **Malware Development, Malware Analysis and Binary Exploitation**
+- 💬 Ask me about **Malware Development, Malware Analysis and EDR bypasses**
 
 - 📫 How to reach me **patrarajarshi20@gmail.com**
 
