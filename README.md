@@ -30,6 +30,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/184143/processor.svg" alt="assembly" width="40" height="40"/> 
+</a> 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cy83rtr0n&show_icons=true&locale=en&layout=compact" alt="cy83rtr0n" /></p>
